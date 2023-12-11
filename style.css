@@ -1,0 +1,211 @@
+.sandwich {
+ position: absolute;
+ background-color: #F7B92C;
+ top:0%;
+ left: 0%;
+ right: 75%;
+ height: 33%;
+}
+
+.burger {
+ background-color: #E14F60;
+ position: absolute;
+ top:0%;
+ left: 25%;
+ right: 50%;
+ height: 33%;
+}
+
+.hot-dog {
+ background-color: #F7B92C;
+ position: absolute;
+ top:0%;
+ left: 50%;
+ right: 25%;
+ height: 33%;
+}
+
+.pizza {
+ background-color: #E14F60;
+ position: absolute;
+ top:0%;
+ left: 75%;
+ right: 0%;
+ height: 33%;
+}
+
+.kebab {
+ background-color: #722356;
+ position: absolute;
+ top: 33%;
+ left: 0%;
+ right: 75%;
+ height: 33%;
+}
+
+.taco {
+ background-color: #722356;
+ position: absolute;
+ top: 33%;
+ left: 75%;
+ right: 0%;
+ height: 33%;
+}
+
+.chicken-bucket {
+ background-color: #E14F60;
+ position: absolute;
+ top: 66%;
+ left: 0%;
+ right: 75%;
+ height: 33%;
+}
+
+.noodle-bowl {
+ background-color: #F7B92C;
+ position: absolute;
+ top: 66%;
+ left: 25%;
+ right: 50%;
+ height: 33%;
+}
+
+.french-fries {
+ background-color: #E14F60;
+ position: absolute;
+ top: 66%;
+ left: 50%;
+ right: 25%;
+ height: 33%;
+}
+
+.orange-juice {
+ background-color: #F7B92C;
+ position: absolute;
+ top: 66%;
+ left: 75%;
+ right: 0%;
+ height: 33%;
+}
+
+.boxCentre {
+ background-color: #FFFFFF;
+ position: absolute;
+ top: 30%;
+ left: 23%;
+ right: 23%;
+ height: 39%;
+}
+
+.boxImg{
+ position: absolute;
+ top: 17%;
+ left: 25%;
+ height: 150px;
+}
+
+.menu {
+ background-color: #722356;
+ position: absolute;
+ top: 95%;
+ left: 0%;
+ right: 0%;
+ height: 5%;
+}
+
+.btn{
+ position: absolute;
+ top: 20%;
+ color: white;
+}
+
+
+.btn1{
+ left: 81%;
+}
+
+.btn2{
+ left: 86%;
+}
+
+.btn3{
+ left: 93%;
+}
+
+.btn4{
+ left: 88%;
+}
+
+.btn5{
+ left: 87%;
+}
+
+.boxImgCentre{
+ position: absolute;
+ top: 25%;
+ left: 10%;
+ height: 150px;
+}
+
+.border {
+	border: 5px solid #1C6EA4;
+	border-radius: 40px 40px 40px 40px;
+	position: absolute;
+	top: 25%;
+	left: 35%;
+	right: 15%;
+	height: 50%;
+}
+
+#global {
+   overflow:auto;
+}
+#gauche {
+   float:left;
+   width:50%;
+}
+#droite {
+   overflow:auto;
+}
+
+.titre1{
+	position: absolute;
+	top: 10%;
+	left: 48%;
+}
+
+.titre2{
+	position: absolute;
+	top: 10%;
+	left: 45%;
+}
+
+.titre3{
+	position: absolute;
+	top: 10%;
+	left: 55%;
+}
+
+.titre4{
+	position: absolute;
+	top: 10%;
+	left: 57%;
+}
+
+.titre5{
+	position: absolute;
+	top: 10%;
+	left: 52%;
+}
+
+.btnShop{
+	position: absolute;
+	top: 85%;
+	left: 52%;
+}
+
+.btnReset{
+	position: absolute;
+	top: 85%;
+	left: 89%;
+}
