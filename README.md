@@ -1,4 +1,4 @@
-# Projet : BTS Magasin
+# Projet : BTS Site Marchant
 
 Lors de mon BTS, j'ai réalisé un projet : Faire un site de vente.
 
